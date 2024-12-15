@@ -23,8 +23,8 @@ Sebelum memulai, pastikan Anda memiliki **Node.js** dan **npm** yang telah terin
    npm run dev
    ```
 
-## Lingkungan Produksi
+## Versi Production
 
-Untuk mengakses versi produksi dari aplikasi ini, Anda dapat mengunjungi [link berikut](https://shippingongkir-test.vercel.app/).
+Untuk mengakses versi production dari aplikasi ini, Anda dapat mengunjungi [link berikut](https://shippingongkir-test.vercel.app/).
 
 ---
